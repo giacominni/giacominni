@@ -1,6 +1,6 @@
 ## `> Olá, sou Rafael Carneiro`
 
-![disponível](https://img.shields.io/badge/status-disponível_para_projetos-556b2f?style=flat-square&labelColor=1a2e0a)
+![status](https://img.shields.io/badge/status-disponivel_para_projetos-556b2f?style=flat-square&labelColor=1a2e0a)
 
 *Desenvolvedor apaixonado por criar interfaces que **respeitam a estética**
 tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
