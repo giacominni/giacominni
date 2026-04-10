@@ -21,7 +21,7 @@ tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
 
 ### Troféus
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=giacominni&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
+![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=giacominni&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
 ### Contato
 
