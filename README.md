@@ -19,10 +19,6 @@ tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
 
 ![Streak](https://streak-stats.demolab.com?user=giacominni&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=722f37&fire=a84550&currStreakLabel=556b2f&sideLabels=8b949e&dates=8b949e&currStreakNum=a84550&sideNums=e6edf3)
 
-### Troféus
-
-![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=giacominni&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
-
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2e0a?style=flat-square&logo=linkedin&logoColor=7a9e3a)](https://linkedin.com/in/giacominni)
