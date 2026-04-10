@@ -1,8 +1,9 @@
 ## `> Olá, sou Rafael Carneiro`
 
 🟢 disponível para projetos
-*Desenvolvedor apaixonado por criar interfaces que **respeitam a estética**
-tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
+
+Desenvolvedor apaixonado por criar interfaces que **respeitam a estética**
+tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.
 
 ---
 
