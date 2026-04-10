@@ -15,7 +15,7 @@ tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.
 
 ### Estatísticas
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giacominni&theme=dracula)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giacominni&theme=monokai)
 
 ![Streak](https://streak-stats.demolab.com?user=giacominni&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=722f37&fire=a84550&currStreakLabel=556b2f&sideLabels=8b949e&dates=8b949e&currStreakNum=a84550&sideNums=e6edf3)
 
