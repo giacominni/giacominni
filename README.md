@@ -2,7 +2,8 @@
 
 ![disponível](https://img.shields.io/badge/status-disponível_para_projetos-556b2f?style=flat-square&labelColor=1a2e0a)
 
-*Desenvolvedor apaixonado por criar interfaces que **respeitam a estética** tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
+*Desenvolvedor apaixonado por criar interfaces que **respeitam a estética**
+tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.*
 
 ---
 
@@ -14,15 +15,13 @@
 
 ### Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giacominni&show_icons=true&theme=transparent&title_color=a84550&icon_color=556b2f&text_color=8b949e&border_color=21262d)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacominni&layout=compact&theme=transparent&title_color=a84550&text_color=8b949e&border_color=21262d)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giacominni&theme=transparent)
 
 ![Streak](https://streak-stats.demolab.com?user=giacominni&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=722f37&fire=a84550&currStreakLabel=556b2f&sideLabels=8b949e&dates=8b949e&currStreakNum=a84550&sideNums=e6edf3)
 
 ### Troféus
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=giacominni&theme=onestar&no-frame=true&row=1&column=6&margin-w=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=giacominni&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
 ### Contato
 
