@@ -1,5 +1,3 @@
-<!-- Substitua SEU_USUARIO pelo seu username no GitHub -->
-
 ## `> Olá, sou Rafael Carneiro`
 
 ![disponível](https://img.shields.io/badge/status-disponível_para_projetos-556b2f?style=flat-square&labelColor=1a2e0a)
@@ -20,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giacominni&layout=compact&theme=transparent&title_color=a84550&text_color=8b949e&border_color=21262d)
 
-![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=722f37&fire=a84550&currStreakLabel=556b2f&sideLabels=8b949e&dates=8b949e&currStreakNum=a84550&sideNums=e6edf3)
+![Streak](https://streak-stats.demolab.com?user=giacominni&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=722f37&fire=a84550&currStreakLabel=556b2f&sideLabels=8b949e&dates=8b949e&currStreakNum=a84550&sideNums=e6edf3)
 
 ### Troféus
 
@@ -30,5 +28,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2e0a?style=flat-square&logo=linkedin&logoColor=7a9e3a)](https://linkedin.com/in/giacominni)
 [![Portfólio](https://img.shields.io/badge/Portfólio-4d1e24?style=flat-square&logo=firefox&logoColor=c97c85)](https://portifolio2-phi-nine.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-1c2128?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:rflgccontato@gmail.com
-)
+[![Email](https://img.shields.io/badge/Email-1c2128?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:rflgccontato@gmail.com)
