@@ -7,11 +7,11 @@ tanto quanto a funcionalidade. Foco em performance, tipografia e detalhes.
 
 ---
 
-![React](https://img.shields.io/badge/React-4d1e24?style=for-the-badge&logo=react&logoColor=c97c85)
-![TypeScript](https://img.shields.io/badge/TypeScript-4d1e24?style=for-the-badge&logo=typescript&logoColor=c97c85)
-![Node.js](https://img.shields.io/badge/Node.js-1a2e0a?style=for-the-badge&logo=nodedotjs&logoColor=c97c85)
-![Python](https://img.shields.io/badge/Python-1a2e0a?style=for-the-badge&logo=python&logoColor=c97c85)
-![Docker](https://img.shields.io/badge/Docker-1c2128?style=for-the-badge&logo=docker&logoColor=c97c85)
+![React](https://img.shields.io/badge/React-4d1e24?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-4d1e24?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-4d1e24?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-4d1e24?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-4d1e24?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
 ### Estatísticas
 
